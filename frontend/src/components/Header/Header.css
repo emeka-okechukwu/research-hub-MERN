@@ -1,0 +1,48 @@
+a:link {
+  color: black;
+  text-decoration: none;
+}
+
+a:visited {
+  color: black;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #923d41;
+  text-decoration: none;
+}
+
+a:active {
+  color: #923d41;
+  text-decoration: none;
+}
+
+a.dropdown-item:link {
+  color: white;
+  text-decoration: none;
+}
+
+a.dropdown-item:visited {
+  color: white;
+  text-decoration: none;
+}
+
+a.dropdown-item:hover {
+  color: black;
+  text-decoration: none;
+}
+
+a.dropdown-item:active {
+  color: white;
+  text-decoration: none;
+}
+
+.nav-tabs .nav-link.active {
+  background-color: #923d41;
+  color: white;
+}
+
+.navbar-dark .navbar-nav .nav-link:focus {
+  box-shadow: none;
+}
